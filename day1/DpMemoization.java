@@ -1,5 +1,5 @@
 import java.util.*;
-public class DpMemorisation {
+public class DpMemoization {
     static int[] dp;
     static int fib(int n)
 {
